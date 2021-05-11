@@ -1,0 +1,2 @@
+rootProject.name = "Friendly Chat Firebase Project"
+include ':app'
