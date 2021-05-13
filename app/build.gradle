@@ -50,6 +50,8 @@ dependencies {
 
     implementation 'com.google.firebase:firebase-messaging:21.1.0'
 
+    implementation 'com.google.firebase:firebase-config:21.0.0'
+
     // Displaying images
     implementation 'com.github.bumptech.glide:glide:4.12.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
